@@ -1,0 +1,39 @@
+
+				JAVASCRIPT
+*Starting with (console.log("")
+*variables, Constants, Data Types, Objects, Arrays, Functions, Conditional Statements, Loops, Switch case
+
+*Variables (var or let)-used for general classification eg.let name='Quadri'
+							  console.log(name)
+*Constants (const)-if you need to reassign a variable eg. const interestRate ='0.5';
+							console.log(interestRate);
+*Arrays are a collection of objects or list of items
+*Functions (function) - calculates values eg. functio greet(name) {console.log('hello'+ world);}
+						 greet('john');
+
+NB:    <!--whatever--> is for making invincible comment on html
+	/*==whatever==*/ is for making invinsible coomment on css
+	//whatever is for making invinsible comment on js
+
+const mobileMenu = {} => {
+    menu.classList.toggle('is-active');
+    menuLinks.classList.toggle('active');
+
+}; 
+
+menu.addEventListener('click' mobileMenu);
+
+const hideMobileMenu = {} => {
+    const menuBars = document.querySelector
+}
+
+	Didnt realise i could edit something from here sha wow just wow wow just wow
+*Open account with FONT AWESOME to use simple icons
+
+
+
+
+
+MAKE THE PICTURES OF THE WEBPAGE YOU WANT TO CREATE USING WORD OR COREL DRAW AND THEN SEND
+	TO WHOSOEVER YOU WANT TO CREATE IT FOR AND THEN THEY'LL REVIEW AND
+	TELL YOU IF THATS WHAT THEY WANT OR NOT (easy peasy)
